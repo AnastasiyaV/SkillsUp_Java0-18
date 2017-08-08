@@ -1,9 +1,6 @@
 import java.util.Scanner;
 
-public class Calculator {
-public Calculator ();
-public double exec ()
-
+public class Calculator  {
 
 
 
